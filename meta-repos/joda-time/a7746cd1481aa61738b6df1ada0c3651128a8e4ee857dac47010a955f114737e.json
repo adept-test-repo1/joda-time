@@ -1,0 +1,35 @@
+{
+  "id" : "joda-time",
+  "variants" : [ "1ef42baacc034b6bcb9b18ea0f27d5bbb7361a1ea54e757ba5fdb00cad813569", "c4b50f0723e8bfd338e156fb802a64af69ad4fe34f186c14e6fe39062b6e0e16", "6479c4150ce2ef465eb23b40a4317854841e1b57e8abf22a549f13678ff42bba", "9285ac664012a202c1ca22e899708edb2549b244c23a84c51ef2ff5507504b1c", "d00d49c6ddcf016cd4190170c797dd6e7af462a9781196cddebba29dd04ae64b", "db514d596c12a85c0101481010ecc195e929a1deaa9739c8469e9c7f81bebf41", "73f852273135c65975fe42ffb86698e213f0e0ea1f573d9d45f5902d9cdbe6d9", "8824af589072633c1851307d67c761de94ac54051afb017a3264f66bfa06559a", "35b2cae41d35660d62b798644b6f40a963e786f55fdc4c5c007104c54e5dfdf3", "89fd394fd11a06c08a24abd27b76aa2e514619b4b6c443c10bd58e96ce9a80bf", "7ccc31727150f138a4b763e36a15d38e5ddae9edb6e2813063093e9d93042163" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ ]
+  }, {
+    "id" : "system",
+    "repositories" : [ ]
+  }, {
+    "id" : "master",
+    "repositories" : [ ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ ]
+  }, {
+    "id" : "default",
+    "repositories" : [ ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ ]
+  } ]
+}
